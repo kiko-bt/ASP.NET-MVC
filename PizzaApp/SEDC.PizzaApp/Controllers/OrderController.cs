@@ -49,7 +49,8 @@ namespace SEDC.PizzaApp.Controllers
 
         public IActionResult OrderDetails()
         {
-            List<Order> orders = StaticDb.Orders;
+            List<Order> orders = new List<Order>();
+            orders = StaticDb.Orders;
             return View(orders);
         }
     }

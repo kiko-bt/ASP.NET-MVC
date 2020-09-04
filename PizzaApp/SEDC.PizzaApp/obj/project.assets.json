@@ -12658,11 +12658,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PRACTICE MAKE PERFECT\\C#\\ASP.NET MVC\\Homework\\PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.csproj",
+      "projectUniqueName": "D:\\PRACTICE MAKE PERFECT\\C#\\ASP.NET MVC\\Homework\\ASP.NET-MVC\\PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.csproj",
       "projectName": "SEDC.PizzaApp",
-      "projectPath": "D:\\PRACTICE MAKE PERFECT\\C#\\ASP.NET MVC\\Homework\\PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.csproj",
+      "projectPath": "D:\\PRACTICE MAKE PERFECT\\C#\\ASP.NET MVC\\Homework\\ASP.NET-MVC\\PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "D:\\PRACTICE MAKE PERFECT\\C#\\ASP.NET MVC\\Homework\\PizzaApp\\SEDC.PizzaApp\\obj\\",
+      "outputPath": "D:\\PRACTICE MAKE PERFECT\\C#\\ASP.NET MVC\\Homework\\ASP.NET-MVC\\PizzaApp\\SEDC.PizzaApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",

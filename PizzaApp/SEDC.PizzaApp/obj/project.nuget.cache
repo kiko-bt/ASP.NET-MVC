@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UWFu49aWHmItpefEO1Ywhn8Gs8S1yUIyDQOYjcofQCdSE08vykvE3vfVHzlY8QlwehbF4OTOukMuHRHtSGbHkQ==",
+  "dgSpecHash": "m/kOzmCJeNXwFWNfamF1idv5r+U0wQHXi9CFOsDxBuxM0ahxZX5blvDKx4c+PDsNpz+8svjqhj7FG4WuXvM5UQ==",
   "success": true,
-  "projectFilePath": "D:\\PRACTICE MAKE PERFECT\\C#\\ASP.NET MVC\\Homework\\PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.csproj",
+  "projectFilePath": "D:\\PRACTICE MAKE PERFECT\\C#\\ASP.NET MVC\\Homework\\ASP.NET-MVC\\PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.aspnetcore\\2.1.7\\microsoft.aspnetcore.2.1.7.nupkg.sha512",
