@@ -1,0 +1,74 @@
+D:\PRACTICE MAKE PERFECT\C#\ASP.NET MVC\Schoolwork\PizzaApp\PizzaApp\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\PRACTICE MAKE PERFECT\C#\ASP.NET MVC\Schoolwork\PizzaApp\PizzaApp\bin\Debug\netcoreapp2.1\appsettings.json
+D:\PRACTICE MAKE PERFECT\C#\ASP.NET MVC\Schoolwork\PizzaApp\PizzaApp\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\PRACTICE MAKE PERFECT\C#\ASP.NET MVC\Schoolwork\PizzaApp\PizzaApp\bin\Debug\netcoreapp2.1\PizzaApp.deps.json
+D:\PRACTICE MAKE PERFECT\C#\ASP.NET MVC\Schoolwork\PizzaApp\PizzaApp\bin\Debug\netcoreapp2.1\PizzaApp.runtimeconfig.json
+D:\PRACTICE MAKE PERFECT\C#\ASP.NET MVC\Schoolwork\PizzaApp\PizzaApp\bin\Debug\netcoreapp2.1\PizzaApp.runtimeconfig.dev.json
+D:\PRACTICE MAKE PERFECT\C#\ASP.NET MVC\Schoolwork\PizzaApp\PizzaApp\bin\Debug\netcoreapp2.1\PizzaApp.dll
+D:\PRACTICE MAKE PERFECT\C#\ASP.NET MVC\Schoolwork\PizzaApp\PizzaApp\bin\Debug\netcoreapp2.1\PizzaApp.pdb
+D:\PRACTICE MAKE PERFECT\C#\ASP.NET MVC\Schoolwork\PizzaApp\PizzaApp\bin\Debug\netcoreapp2.1\PizzaApp.Views.dll
+D:\PRACTICE MAKE PERFECT\C#\ASP.NET MVC\Schoolwork\PizzaApp\PizzaApp\bin\Debug\netcoreapp2.1\PizzaApp.Views.pdb
+D:\PRACTICE MAKE PERFECT\C#\ASP.NET MVC\Schoolwork\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\PizzaApp.AssemblyInfoInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\ASP.NET MVC\Schoolwork\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\PizzaApp.AssemblyInfo.cs
+D:\PRACTICE MAKE PERFECT\C#\ASP.NET MVC\Schoolwork\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\PizzaApp.csproj.CoreCompileInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\ASP.NET MVC\Schoolwork\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\PizzaApp.RazorAssemblyInfo.cache
+D:\PRACTICE MAKE PERFECT\C#\ASP.NET MVC\Schoolwork\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\PizzaApp.RazorAssemblyInfo.cs
+D:\PRACTICE MAKE PERFECT\C#\ASP.NET MVC\Schoolwork\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\PizzaApp.TagHelpers.input.cache
+D:\PRACTICE MAKE PERFECT\C#\ASP.NET MVC\Schoolwork\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\PizzaApp.TagHelpers.output.cache
+D:\PRACTICE MAKE PERFECT\C#\ASP.NET MVC\Schoolwork\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\PizzaApp.RazorCoreGenerate.cache
+D:\PRACTICE MAKE PERFECT\C#\ASP.NET MVC\Schoolwork\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+D:\PRACTICE MAKE PERFECT\C#\ASP.NET MVC\Schoolwork\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\PRACTICE MAKE PERFECT\C#\ASP.NET MVC\Schoolwork\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\PRACTICE MAKE PERFECT\C#\ASP.NET MVC\Schoolwork\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\Razor\Views\Order\Create.cshtml.g.cs
+D:\PRACTICE MAKE PERFECT\C#\ASP.NET MVC\Schoolwork\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\Razor\Views\Order\Details.cshtml.g.cs
+D:\PRACTICE MAKE PERFECT\C#\ASP.NET MVC\Schoolwork\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\Razor\Views\Order\Index.cshtml.g.cs
+D:\PRACTICE MAKE PERFECT\C#\ASP.NET MVC\Schoolwork\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\PRACTICE MAKE PERFECT\C#\ASP.NET MVC\Schoolwork\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_OrderItem.cshtml.g.cs
+D:\PRACTICE MAKE PERFECT\C#\ASP.NET MVC\Schoolwork\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ThankYou.cshtml.g.cs
+D:\PRACTICE MAKE PERFECT\C#\ASP.NET MVC\Schoolwork\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\PRACTICE MAKE PERFECT\C#\ASP.NET MVC\Schoolwork\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\PRACTICE MAKE PERFECT\C#\ASP.NET MVC\Schoolwork\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\PizzaApp.RazorTargetAssemblyInfo.cache
+D:\PRACTICE MAKE PERFECT\C#\ASP.NET MVC\Schoolwork\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\PizzaApp.RazorTargetAssemblyInfo.cs
+D:\PRACTICE MAKE PERFECT\C#\ASP.NET MVC\Schoolwork\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\PizzaApp.Views.pdb
+D:\PRACTICE MAKE PERFECT\C#\ASP.NET MVC\Schoolwork\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\PizzaApp.dll
+D:\PRACTICE MAKE PERFECT\C#\ASP.NET MVC\Schoolwork\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\PizzaApp.pdb
+D:\PRACTICE MAKE PERFECT\C#\ASP.NET MVC\Schoolwork\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\PizzaApp.genruntimeconfig.cache
+D:\PRACTICE MAKE PERFECT\C#\ASP.NET MVC\Schoolwork\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\PizzaApp.csproj.CopyComplete
+D:\PRACTICE MAKE PERFECT\C#\ASP.NET MVC\Schoolwork\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\PizzaApp.csprojAssemblyReference.cache
+C:\Users\Hristijan\Desktop\New folder\PizzaApp\PizzaApp\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Hristijan\Desktop\New folder\PizzaApp\PizzaApp\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Hristijan\Desktop\New folder\PizzaApp\PizzaApp\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Hristijan\Desktop\New folder\PizzaApp\PizzaApp\bin\Debug\netcoreapp2.1\PizzaApp.deps.json
+C:\Users\Hristijan\Desktop\New folder\PizzaApp\PizzaApp\bin\Debug\netcoreapp2.1\PizzaApp.runtimeconfig.json
+C:\Users\Hristijan\Desktop\New folder\PizzaApp\PizzaApp\bin\Debug\netcoreapp2.1\PizzaApp.runtimeconfig.dev.json
+C:\Users\Hristijan\Desktop\New folder\PizzaApp\PizzaApp\bin\Debug\netcoreapp2.1\PizzaApp.dll
+C:\Users\Hristijan\Desktop\New folder\PizzaApp\PizzaApp\bin\Debug\netcoreapp2.1\PizzaApp.pdb
+C:\Users\Hristijan\Desktop\New folder\PizzaApp\PizzaApp\bin\Debug\netcoreapp2.1\PizzaApp.Views.dll
+C:\Users\Hristijan\Desktop\New folder\PizzaApp\PizzaApp\bin\Debug\netcoreapp2.1\PizzaApp.Views.pdb
+C:\Users\Hristijan\Desktop\New folder\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\PizzaApp.csprojAssemblyReference.cache
+C:\Users\Hristijan\Desktop\New folder\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\PizzaApp.AssemblyInfoInputs.cache
+C:\Users\Hristijan\Desktop\New folder\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\PizzaApp.AssemblyInfo.cs
+C:\Users\Hristijan\Desktop\New folder\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\PizzaApp.csproj.CoreCompileInputs.cache
+C:\Users\Hristijan\Desktop\New folder\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\PizzaApp.RazorAssemblyInfo.cache
+C:\Users\Hristijan\Desktop\New folder\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\PizzaApp.RazorAssemblyInfo.cs
+C:\Users\Hristijan\Desktop\New folder\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\PizzaApp.TagHelpers.input.cache
+C:\Users\Hristijan\Desktop\New folder\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\PizzaApp.TagHelpers.output.cache
+C:\Users\Hristijan\Desktop\New folder\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\PizzaApp.RazorCoreGenerate.cache
+C:\Users\Hristijan\Desktop\New folder\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Hristijan\Desktop\New folder\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Hristijan\Desktop\New folder\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Hristijan\Desktop\New folder\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\Razor\Views\Order\Create.cshtml.g.cs
+C:\Users\Hristijan\Desktop\New folder\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\Razor\Views\Order\Details.cshtml.g.cs
+C:\Users\Hristijan\Desktop\New folder\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\Razor\Views\Order\Index.cshtml.g.cs
+C:\Users\Hristijan\Desktop\New folder\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Hristijan\Desktop\New folder\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_OrderItem.cshtml.g.cs
+C:\Users\Hristijan\Desktop\New folder\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ThankYou.cshtml.g.cs
+C:\Users\Hristijan\Desktop\New folder\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Hristijan\Desktop\New folder\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Hristijan\Desktop\New folder\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\PizzaApp.RazorTargetAssemblyInfo.cache
+C:\Users\Hristijan\Desktop\New folder\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\PizzaApp.RazorTargetAssemblyInfo.cs
+C:\Users\Hristijan\Desktop\New folder\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\PizzaApp.Views.pdb
+C:\Users\Hristijan\Desktop\New folder\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\PizzaApp.dll
+C:\Users\Hristijan\Desktop\New folder\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\PizzaApp.pdb
+C:\Users\Hristijan\Desktop\New folder\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\PizzaApp.genruntimeconfig.cache
+C:\Users\Hristijan\Desktop\New folder\PizzaApp\PizzaApp\obj\Debug\netcoreapp2.1\PizzaApp.csproj.CopyComplete

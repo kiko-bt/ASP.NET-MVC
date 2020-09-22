@@ -1,0 +1,12 @@
+C:\Users\Hristijan\Desktop\PizzaApp.Refactored\PizzaApp.DataAccess\bin\Debug\netcoreapp2.1\PizzaApp.DataAccess.deps.json
+C:\Users\Hristijan\Desktop\PizzaApp.Refactored\PizzaApp.DataAccess\bin\Debug\netcoreapp2.1\PizzaApp.DataAccess.dll
+C:\Users\Hristijan\Desktop\PizzaApp.Refactored\PizzaApp.DataAccess\bin\Debug\netcoreapp2.1\PizzaApp.DataAccess.pdb
+C:\Users\Hristijan\Desktop\PizzaApp.Refactored\PizzaApp.DataAccess\bin\Debug\netcoreapp2.1\PizzaApp.Domain.dll
+C:\Users\Hristijan\Desktop\PizzaApp.Refactored\PizzaApp.DataAccess\bin\Debug\netcoreapp2.1\PizzaApp.Domain.pdb
+C:\Users\Hristijan\Desktop\PizzaApp.Refactored\PizzaApp.DataAccess\obj\Debug\netcoreapp2.1\PizzaApp.DataAccess.csprojAssemblyReference.cache
+C:\Users\Hristijan\Desktop\PizzaApp.Refactored\PizzaApp.DataAccess\obj\Debug\netcoreapp2.1\PizzaApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Hristijan\Desktop\PizzaApp.Refactored\PizzaApp.DataAccess\obj\Debug\netcoreapp2.1\PizzaApp.DataAccess.AssemblyInfo.cs
+C:\Users\Hristijan\Desktop\PizzaApp.Refactored\PizzaApp.DataAccess\obj\Debug\netcoreapp2.1\PizzaApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Hristijan\Desktop\PizzaApp.Refactored\PizzaApp.DataAccess\obj\Debug\netcoreapp2.1\PizzaApp.DataAccess.csproj.CopyComplete
+C:\Users\Hristijan\Desktop\PizzaApp.Refactored\PizzaApp.DataAccess\obj\Debug\netcoreapp2.1\PizzaApp.DataAccess.dll
+C:\Users\Hristijan\Desktop\PizzaApp.Refactored\PizzaApp.DataAccess\obj\Debug\netcoreapp2.1\PizzaApp.DataAccess.pdb

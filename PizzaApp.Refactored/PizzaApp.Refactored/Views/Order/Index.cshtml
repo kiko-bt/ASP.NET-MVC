@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewData["Title"] = "Orders";
+}
+@model OrdersViewModel
+
+<div class="jumbotron">
+    <h3>Fun facts</h3>
+    <p><b>First Customer: </b> @Model.NameOfFirstCustomer</p>
+    <p><b>Last Pizza Ordered: </b> @Model.LastPizza</p>
+    <p><b>Most popular Pizza: </b> @Model.MostPopularPizza</p>
+    <p><b>Number of orders so far: </b> @Model.OrderCount</p>
+</div>
+
+<h3 class="text-center text-primary" style="font-size:xx-large">All Orders</h3>
+
+<br />
+<br />
+
+@foreach (var order in Model.Orders)
+{
+    @Html.Partial("~/Views/Shared/_OrderItem.cshtml", order)
+
+    @foreach (var pizza in order.Pizzas)
+    {
+        @Html.Partial("~/Views/Shared/_PizzaItem.cshtml", pizza)
+    }
+}
+

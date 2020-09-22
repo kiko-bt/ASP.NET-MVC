@@ -1,0 +1,56 @@
+﻿@model OrderListViewModel
+
+<div class="container">
+    <h1 class="text-center page-header">Welcome To The Order Page</h1>
+
+
+    <br />
+
+
+
+    <div class="table-responsive">
+        <table class="table table-bordered table-condensed table-striped table-hover sortable">
+            @foreach (var order in Model.Orders)
+            {
+                <thead style="color: bisque">
+                    <tr>
+                        <th>Order no.</th>
+                        <th>Customer Name</th>
+                        <th>Pizza</th>
+                        <th>Price</th>
+                        <th>Image</th>
+                        <th>About</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    <tr>
+                        <td>@order.ID</td>
+                        <td>@order.User.FirstName @order.User.LastName</td>
+                        <td>@order.Pizza.Name</td>
+                        <td>@order.Price</td>
+                        <td><img src="https://www.cicis.com/wp-content/uploads/2019/04/pizza_categoryheader.png" alt="Pizza" height="30" /></td>
+                        <td>@Html.ActionLink("Details", "Details", "Order", new { id = order.ID })</td>
+                    </tr>
+                </tbody>
+            }
+
+        </table>
+    </div>
+
+
+    <div class="text-center">
+        <h3>Our first Pizza ever to be delivered  was:</h3>
+        <p style="color:bisque">@Model.FirstPizza</p>
+
+
+        <h3>Our first customer was:</h3>
+        <p style="color:bisque">@Model.FirstCustomerName</p>
+
+
+        <h3>Total orders since we started delivering:</h3>
+        <p style="color:bisque">@Model.NumberOfOrders</p>
+    </div>
+
+</div>
+

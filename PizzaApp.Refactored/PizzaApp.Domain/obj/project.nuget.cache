@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "hKbE5GyWlx1snOg3331p0IVC08RaS9JK2iHKmgZ9emoEbAX33NXabyHbgxiwsFjYybxleW4CZIwFC7PzBr4L4g==",
+  "success": true,
+  "projectFilePath": "D:\\PRACTICE MAKE PERFECT\\C#\\ASP.NET MVC\\Homework\\ASP.NET-MVC\\PizzaApp.Refactored\\PizzaApp.Domain\\PizzaApp.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hristijan\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\Hristijan\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\Hristijan\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\Hristijan\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\Hristijan\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Hristijan\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\Hristijan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

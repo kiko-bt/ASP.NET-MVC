@@ -1,0 +1,12 @@
+﻿@model MenuViewModel
+@{
+    ViewData["Title"] = "Menu";
+}
+
+<h1 class="text-center">Pizza Menu</h1>
+
+@foreach (var pizza in Model.Pizzas)
+{
+    @Html.Partial("~/Views/Shared/_PizzaItem.cshtml", pizza);
+}
+

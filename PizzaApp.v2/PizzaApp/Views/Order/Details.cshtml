@@ -1,0 +1,51 @@
+﻿@model OrderViewModel
+
+@{
+    ViewData["Title"] = "Details";
+
+    string delivered = Model.Delievered ? "Delivered" : "Not Delivered";
+
+    string color = Model.Delievered ? "text-success" : "alert-danger";
+
+    string orderSuccessful = Model.Delievered ? "Order Successful!" : "Order was not successful!";
+}
+
+
+<br />
+
+
+
+<div class="container">
+    <h2 class="text-center page-header text-info" style="font-size:60px">Order Details</h2>
+    <table class="table alert-info">
+        <thead>
+            <tr>
+                <th>Firstname</th>
+                <th>Lastname</th>
+                <th>Address</th>
+                <th>Phone</th>
+                <th>Pizza</th>
+                <th>Size</th>
+                <th>Status</th>
+                <th class="text-center">Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>@Model.FirstName</td>
+                <td>@Model.LastName</td>
+                <td>@Model.Address</td>
+                <td>@Model.Phone</td>
+                <td>@Model.PizzaName</td>
+                <td>@Model.Size</td>
+                <td class="@color" style="font-size: 18px">@delivered</td>
+                <td style="font-family:'Book Antiqua'">@Model.Description</td>
+            </tr>
+            <tr class="@color">
+                <td>@orderSuccessful</td>
+                <td>@Model.FirstName</td>
+                <td>@Model.LastName</td>
+            </tr>
+        </tbody>
+    </table>
+</div>

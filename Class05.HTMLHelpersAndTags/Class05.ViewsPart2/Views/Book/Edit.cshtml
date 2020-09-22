@@ -1,0 +1,31 @@
+﻿@model Book
+@{
+    ViewData["Title"] = "Edit";
+}
+
+@using (Html.BeginForm("Edit", "Book", FormMethod.Post))
+{
+<div class="container">
+    <div class="form-group">
+        <label>Title</label>
+        @Html.TextBoxFor(x => x.Title, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        <label>Genre</label>
+        @Html.TextBoxFor(x => x.Genre, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        <label>Author</label>
+        @Html.TextBoxFor(x => x.Author.FullName, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        <label>Available</label>
+        @Html.CheckBoxFor(x => x.IsAvailable)
+    </div>
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary">Save</button>
+    </div>
+</div>
+}
+
+

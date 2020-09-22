@@ -1,0 +1,35 @@
+﻿body {
+    background: url(../images/nik-owens-40OJLYVWeeM-unsplash.jpg) no-repeat center;
+}
+
+
+.page-header {
+    font-family: 'Dancing Script', cursive;
+    font-size: 60px;
+}
+
+
+h3{
+    font-family:Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    color:black;
+}
+
+p{
+    font-size: 25px;
+}
+
+
+h1{
+    font-size: 40px;
+    color:lightgreen;
+}
+
+.navbar-header{
+    font-weight: bold;
+    font-family: monospace;
+}
+
+li{
+    font-size: 20px;
+    left: 50px;
+}
