@@ -139,7 +139,7 @@ namespace PizzaApp.Refactored.Controllers
         //[HttpPost]
         //public IActionResult Feedback(Feedback entity) 
         //{
-                //strashna rabota..        
+  
         //}
 
 
